@@ -1,0 +1,4 @@
+Debug
+*.opendb
+*.suo
+*.VC.db

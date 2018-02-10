@@ -1,0 +1,6 @@
+[submodule "DatastructAndAlgorithm"]
+	path = DatastructAndAlgorithm
+	url = https://github.com/SammyLan/DatastructAndAlgorithm.git
+[submodule "MyKnowledge"]
+	path = MyKnowledge
+	url = https://code.csdn.net/SammyLan/myknowledge.git
